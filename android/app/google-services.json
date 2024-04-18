@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541152085628",
+    "project_id": "fir-meetup-24860",
+    "storage_bucket": "fir-meetup-24860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541152085628:android:139063b379bd9fabbb6bf9",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbBYrHMezJtAudhhxBRo58p_bAvaY9_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
